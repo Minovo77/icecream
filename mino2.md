@@ -1,1 +1,14 @@
+**中国排位起床社区S2赛季排行榜**
+---
+> :1st_place_medal: #1 (met)1572330618(met) `1085 ELO`
+:2nd_place_medal: #2 (met)1766509917(met) `1020 ELO`
+:3rd_place_medal: #3 (met)3782154265(met) `870 ELO`
+#4 (met)1926530835(met) `840ELO`
+#5 (met)3159970474(met) `800 ELO `
+#6 (met)1115958225(met) `715ELO`
+#7 (met)582665998(met) `620ELO`
+#8 (met)860728326(met) `595ELO`
+#9 (met)2969813927(met) `580ELO`
+#10 (met)1015346276(met) `525ELO`
+
 
