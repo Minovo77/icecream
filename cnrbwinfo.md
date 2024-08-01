@@ -11,6 +11,6 @@ Ranked BedWars 是由社区在 Hypixel 服务器上的一种私人游戏模式�
 •赛季规则：(chn)9103126221119938(chn)
 
 QQ群：373946063
-官网：cnrbw.net
+官网：[中国排位起床社区官网](https://www.cnrbw.net/)
 
 祝您游玩愉快！
