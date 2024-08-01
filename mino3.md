@@ -1,0 +1,14 @@
+**中国排位起床社区S3赛季排行榜**
+---
+> :1st_place_medal: #1 (met)3159970474(met) `1515ELO`
+:2nd_place_medal: #2 (met)1572330618(met) `1225ELO`
+:3rd_place_medal: #3 (met)1926530835(met) `1145ELO`
+#4 (met)1792428757(met) `1130ELO`
+#5 (met)3782154265(met) `1060ELO `
+#6 (met)582665998(met) `1030ELO`
+#7 (met)1015346276(met) `1025ELO`
+#8 (met)1416001737(met) `975ELO`
+#9 (met)2969813927(met) `945ELO`
+#10 (met)954815435(met) `795ELO`
+
+
