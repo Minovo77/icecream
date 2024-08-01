@@ -1,6 +1,6 @@
 # 中国排位起床社区Claim ELO系统
 (使用`=claimelo`来领取赛季初始ELO)
-> (rol28890813)(rol)-200ELO
+> (rol)28890813(rol)-200ELO
 (rol)28890779(rol)-265ELO
 (rol)28890743(rol)-350ELO
 (rol)28890678(rol) & (rol)29183479(rol)-245ELO
