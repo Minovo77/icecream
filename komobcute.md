@@ -1,4 +1,4 @@
-**中国排位起床社区S1Beta版本排行榜**
+# 中国排位起床社区S1Beta版本排行榜
 ---
 > :1st_place_medal: #1 (met)3387441434(met) `1210ELO`
 :2nd_place_medal: #2 (met)1884310377(met) `795ELO`
