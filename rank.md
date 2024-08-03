@@ -14,9 +14,7 @@ Under 100 @黑铁  W:(+35) L:(-10) MVP:(+15)
 1400 @石英  W:(+10) L:(-40) MVP:(+5) 
 1500 @精英  W:(+10) L:(-45) MVP:(+5) 
 +1700 @神话  W:(+5) L:(-50) MVP:(+5) 
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-<font color=#00ffff size=72>color=#00ffff</font>
-<font color=gray size=72>color=gray</font>
++ 人闲桂花落，
+- 夜静春山空。
+! 月出惊山鸟，
+# 时鸣春涧中。
