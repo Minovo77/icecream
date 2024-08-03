@@ -15,3 +15,4 @@ Under 100 @黑铁  W:(+35) L:(-10) MVP:(+15)
 1500 @精英  W:(+10) L:(-45) MVP:(+5) 
 +1700 @神话  W:(+5) L:(-50) MVP:(+5) 
 <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+<font color=gray size=72>color=gray</font>
