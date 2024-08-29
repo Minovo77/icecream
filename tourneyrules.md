@@ -4,7 +4,7 @@
 > 2.Sub Rules:按照在 CNRBW 的roles为准(我们不考虑其他服务器你所拥有的roles):
 **Premium sub Premium**
 **PUGs sub PUGS**
-**PUPs Trial sub PUGs Trial**
+**PUGs Trial sub PUGs Trial**
 **PUPs sub PUPs**
 注意可以往下sub，而不能往上sub。比如你是PUGs你所找的sub对象应该为:PUGs、PUGs Trial、PUPs
 
