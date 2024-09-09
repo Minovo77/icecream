@@ -1,4 +1,4 @@
-# PUPs Betting Info
+# PUPs Betting Rules
 （用自身拥有的ELO来对 Team1.2.3.4.. 进行投注）
 
 ELO <500 可投注最高200ELO，不得低于100
