@@ -1,6 +1,7 @@
 > ➥社区工作人员角色：
 (rol)28885652(rol)=Owner 社区所有者
 (rol)39615120(rol)=Developer 社区机器人开发者
+(rol)39999326(rol)=Designer 社区图标/封面设计师
 (rol)28884189(rol)=Administrator 社区维护人员
 (rol)31574250(rol)=Moderator 社区协管人员
 (rol)28890678(rol)=Helper 社区志愿人员
