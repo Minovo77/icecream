@@ -1,6 +1,6 @@
 # 中国排位起床社区Staff指令表
 
-(rol)40346714(rol)
+**(rol)40346714(rol)**
 > `=voidgame` 强制取消游戏 [Admin+]
 `=confirmgame` 强制确认游戏 [Admin+]
 `=reset ` 重置数据 需要到(chn)4758116200768162(chn)频道运行 [Admin+]
