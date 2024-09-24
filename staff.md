@@ -1,4 +1,4 @@
-# 中国排位起床社区Staff指令表
+# China Ranked Bedwars Bot Help - Staff Team
 
 (ins)**(rol)40346714(rol)**(ins)
 > (ins)**Helper**(ins)
