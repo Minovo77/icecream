@@ -1,12 +1,12 @@
 # China Ranked Bedwars Bot Help - Manager
 
-> **(ins)[Manager] Pups(ins)**
+> **[Manager] Pups**
 **`=add pups <@user>`**
 为玩家添加PUPS
 **`remove pups <@user>`**
 为玩家删除PUPS
 
-> **(ins)[Manager] Pugs(ins)**
+> **[Manager] Pugs**
 **`=add pugstrial <@user>`**
 为玩家添加PUGs Trial 
 **`=remove pugstrial <@user>`**
@@ -16,13 +16,13 @@
 **`=remove pugs <@user>`**
 为玩家删除PUGS
 
-> **(ins)[Manager] Premium(ins)**
+> **[Manager] Premium**
 **`=add premium <@user>`**
 为玩家添加Premium
 **`=remove premium <@user>`**
 为玩家删除Premium
 
-> **(ins)PUPS Owner(ins)**
+> **PUPS Owner**
 **`=add pupsmanager <@user>`**
 为玩家添加[Manager] Pups
 **`remove pupsmanager <@user>`**
@@ -32,13 +32,13 @@
 **`remove pups <@user>`**
 为玩家删除PUPS
 
-> **(ins)[Manager] Creator(ins)**
+> **[Manager] Creator**
 **`=add creator <@user>`**
 为玩家添加主播身分组
 **`=remove creator <@user>`**
 为玩家删除主播身分组
 
-> **(ins)[Manager] ScreenShare(ins)**
+> **[Manager] ScreenShare**
 **`=add sser <@user>`**
 为玩家添加社区查端人员(Screensharer)
 **`=remove sser <@user>`**
