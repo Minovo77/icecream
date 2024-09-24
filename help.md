@@ -59,4 +59,4 @@
 **`=remove <角色名> <@玩家>`**
 为玩家移除角色 [Manager]
 
-**Developer by:(met)582665998(met)**
+                         **Developer by:(met)582665998(met)**
