@@ -52,5 +52,9 @@
 解封玩家 [Screensharer、Admin+]
 **`/ban <@玩家>`**
 服务器封禁<alting、shared account> [Screensharer、Admin+]
+**`=add frozen <@玩家>`**
+为玩家添加排位冻结身分组 [Screensharer、Owner]
+**`=remove frozen <@玩家>`**
+为玩家删除排位冻结身分组 [Screensharer、Owner]
 
 **Developer:(met)582665998(met)**
