@@ -43,3 +43,5 @@
 为玩家添加社区查端人员(Screensharer)
 **`=remove sser <@user>`**
 为玩家删除社区查端人员(Screensharer)
+
+**Developer:(met)582665998(met)**
