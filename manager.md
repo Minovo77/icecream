@@ -3,7 +3,7 @@
 > **[Manager] Pups**
 **`=add pups <@user>`**
 为玩家添加PUPS
-**`remove pups <@user>`**
+**`=remove pups <@user>`**
 为玩家删除PUPS
 
 > **[Manager] Pugs**
@@ -25,11 +25,11 @@
 > **PUPS Owner**
 **`=add pupsmanager <@user>`**
 为玩家添加[Manager] Pups
-**`remove pupsmanager <@user>`**
+**`=remove pupsmanager <@user>`**
 为玩家删除[Manager] Pups
 **`=add pups <@user>`**
 为玩家添加PUPS
-**`remove pups <@user>`**
+**`=remove pups <@user>`**
 为玩家删除PUPS
 
 > **[Manager] Creator**
