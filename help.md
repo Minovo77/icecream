@@ -20,8 +20,6 @@
 获取玩家的禁言状态 [Helper+]
 **`=list <角色名>`** 
 查看拥有角色的玩家列表 [Helper+]
-**`=nick <@玩家>`**
-刷新玩家的已注册和等级角色 [Helper+]
 **`=game <游戏ID>`** 
 查看游戏结果 [Helper+]
 **`=fix <@玩家>`** 
@@ -32,6 +30,8 @@
 强制取消游戏 [Moderator+]
 **`=confirmgame`**
 强制确认游戏 [Moderator+]
+**`=nick <@玩家>`**
+刷新玩家的已注册和等级角色 [Helper+]
 
 > (ins)**Admin+**(ins)
 **`=reset <@玩家>`**
