@@ -26,14 +26,14 @@
 `**=fix <@玩家>**` 
 修复玩家身分组 [Helper+]
 
-(ins)**Moderator+**(ins)
-`**=voidgame**`
+> (ins)**Moderator+**(ins)
+**`=voidgame`**
 强制取消游戏 [Moderator+]
-`**=confirmgame**` 
+`=confirmgame` **
 强制确认游戏 [Moderator+]
-`**=reset** ` 
+**`=reset ` **
 
-(ins)**Admin+**(ins)
+> (ins)**Admin+**(ins)
 重置数据 需要到(chn)4758116200768162(chn)频道运行 [Admin+]
 `**=modify <set|add|sub> <@玩家> <数值>**` 
 设置或加减玩家的ELO [Admin+]
@@ -44,7 +44,7 @@
 `**=setresult modify <游戏ID> <获胜队伍> <@MVP>**`
 强制socre游戏 [Owner]
 
-(ins)**Screensharer**(ins)
+> (ins)**Screensharer**(ins)
 `**=ban <@玩家> <时长> [原因]**` 
 封禁玩家 [Screensharer、Admin+]
 `**=unban <@玩家> [原因]**` 
