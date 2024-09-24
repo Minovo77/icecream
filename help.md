@@ -58,3 +58,5 @@
 为玩家添加角色 [Manager]
 **`=remove <角色名> <@玩家>`**
 为玩家移除角色 [Manager]
+
+**Designer by:(rol)582665998(rol)**
