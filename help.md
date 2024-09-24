@@ -32,7 +32,6 @@
 强制取消游戏 [Moderator+]
 **`=confirmgame`**
 强制确认游戏 [Moderator+]
-**`=reset `**
 
 > (ins)**Admin+**(ins)
 **`=reset <@玩家>`**
