@@ -43,7 +43,7 @@
 **`=result modify <游戏ID> <获胜队伍> <@MVP>`**
 修改游戏结果 同时修正数据 获胜队伍为1或2 此指令请前往(chn)3616884216215856(chn)执行 [Admin+]
 **`=setresult modify <游戏ID> <获胜队伍> <@MVP>`**
-强制socre游戏 [Owner]
+强制score游戏 [Owner]
 
 > (ins)**Screensharer**(ins)
 **`=ban <@玩家> <时长> [原因]`**
