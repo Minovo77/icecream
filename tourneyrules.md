@@ -18,4 +18,4 @@
 
 > 7.如果寻找sub,则获胜的团队ELO将由被sub和sub两人共同平分(Top Killer ELO除外)
 
-(ins)(met)all(met)(ins)
+
