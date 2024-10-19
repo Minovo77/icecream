@@ -1,4 +1,4 @@
-# PUPs Tournament Winner List
+# Pups Tournament Winner List
 > 2024-06-29 (4v4)
 (met)1416001737(met) (met)954815435(met) (met)2639674290(met) (met)123849659(met)
 
@@ -29,5 +29,8 @@
 > 2024-10-13 (4v4)
 (met)889536541(met) (met)2969813927(met) (met)2275823800(met) (met)162109449(met) Sub:(met)3374356962(met) (met)3294540641(met)
 
+> 2024-10-19 (4v4)
+(met)2080150277(met) (met)582665998(met) (met)300738121(met) (met)3290663432(met) Sub:(met)2969813927(met)
 
-**名单更新时间：2024-10-14 17:14**
+
+**名单更新时间：2024-10-19 21:41**
