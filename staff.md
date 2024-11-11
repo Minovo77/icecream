@@ -1,6 +1,5 @@
 # China Ranked Bedwars Bot Help - Staff Team
 
-(ins)**(rol)40346714(rol)**(ins)
 > (ins)**Helper**(ins)
 **`=warn <@玩家> [原因]`** 
 警告玩家 [Helper+]
@@ -24,6 +23,8 @@
 查看游戏结果 [Helper+]
 **`=fix <@玩家>`** 
 修复玩家身分组 [Helper+]
+**`=forcer <@玩家> <IGN>`** 
+强制注册玩家的IGN 需到(chn)6933225103010000(chn)执行 [Helper+]
 
 > (ins)**Moderator+**(ins)
 **`=voidgame`**
@@ -35,7 +36,7 @@
 
 > (ins)**Admin+**(ins)
 **`=reset <@玩家>`**
-重置数据 需要到(chn)4758116200768162(chn)频道运行 [Admin+]
+重置数据 需要到(chn)4758116200768162(chn)频道执行 [Admin+]
 **`=modify <set|add|sub> <@玩家> <数值>`** 
 设置或加减玩家的ELO [Admin+]
 **`=result void <游戏ID>`**
