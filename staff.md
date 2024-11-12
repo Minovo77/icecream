@@ -58,4 +58,4 @@
 **`=remove frozen <@玩家>`**
 为玩家删除排位冻结身分组 [Screensharer、Owner]
 
-**Developer:(met)582665998(met)**
+**Developer:BhopL (met)582665998(met)**
