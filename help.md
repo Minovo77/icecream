@@ -1,5 +1,6 @@
 # China Ranked Bedwars Bot Help - General
 
+(ins)**全局指令**(ins)
 > **`=i`**
 查看自己数据
 **`=i <@玩家>`**
@@ -43,5 +44,5 @@ at本次比赛所有玩家
 **`=party help`**
 查看组队指令菜单
 
-Developer:(met)582665998(met)
+Developer:BhopL (met)582665998(met)
 
