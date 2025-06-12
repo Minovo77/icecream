@@ -33,4 +33,4 @@ Prime所有频道:
 (chn)5341606608089665(chn)-Prime StatsReset申请区
 (chn)4758116200768162(chn)-Prime StatsReset Logs
 (chn)7487263685068827(chn)-赛季更新信息或者社区重要更新信息Prime优先剧透
-[Prime-VC]([https://kook.top/1H3kp3](https://kook.vip/1i3V5d))
+[Prime-VC](https://kook.vip/1i3V5d)
