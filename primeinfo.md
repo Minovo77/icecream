@@ -8,6 +8,7 @@ Prime
 • 每个赛季和重置统计数据后开始 300 ELO（只能在每个赛季开始时且未开始任何一局游戏时可领取）。
 • 允许加入任何比赛语音，并且只能听。
 ---
+
 Prime+
 (rol)28890779(rol)
 > • Prime 的权限您也同样享受
@@ -17,6 +18,7 @@ Prime+
 • 允许加入并在任何比赛语音通话中发言，而无需被比赛中的人=call来把你添加进比赛语音。但是，如果比赛玩家需要集中注意力，不想让你说话，我们恳请你将麦克风静音。
 • 允许看见&加入所有 PUPs 和 PUGs 聊天，语音频道。
 ---
+
 Prime++
 (rol)28890743(rol)
 > • Prime 和 Prime+ 的权限您也同样享受
@@ -31,4 +33,4 @@ Prime所有频道:
 (chn)5341606608089665(chn)-Prime StatsReset申请区
 (chn)4758116200768162(chn)-Prime StatsReset Logs
 (chn)7487263685068827(chn)-赛季更新信息或者社区重要更新信息Prime优先剧透
-[Prime-VC](https://kook.top/1H3kp3)
+[Prime-VC]([https://kook.top/1H3kp3](https://kook.vip/1i3V5d))
