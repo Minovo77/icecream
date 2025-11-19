@@ -21,7 +21,7 @@
 > (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+20` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-25` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
 
 700ELO (rol)58113886(rol)  
-> (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc](-25) (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc](+5)
+> (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-25` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
 
 800ELO (rol)58113885(rol) 
 > (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-30` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
