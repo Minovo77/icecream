@@ -1,33 +1,12 @@
 # 中国排位起床社区ELO分数系统
-0-100ELO (rol)58113902(rol) 
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+35` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-10` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+15`
-
-100ELO (rol)58113901(rol)  
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+30` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-10` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+15`
-
-200ELO (rol)58113900(rol)  
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+30` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-15` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+15`
-
-300ELO (rol)58113896(rol) 
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+25` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-15` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+10`
-
-400ELO (rol)58113895(rol)
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+25` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-20` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+10`
-
-500ELO (rol)58113891(rol)
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+20` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-20` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+10`
-
-600ELO (rol)58113887(rol)
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+20` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-25` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
-
-700ELO (rol)58113886(rol)  
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-25` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
-
-800ELO (rol)58113885(rol) 
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-30` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
-
-900ELO (rol)58113881(rol)  
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-30` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
-
-1000ELO (rol)58113880(rol)
-(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k] (emj)trophy_gif(emj)[8001094616255705/ae15IzCnz0028028]`+15` (emj)rankcross(emj)[8001094616255705/PKVnLYlTqZ0dc0dc]`-30` (emj)rank1th(emj)[8001094616255705/N687705kAi0dc0dc]`+5`
+(rol)58113902(rol):0Elo `+35` `-10` MVP:`+15`
+(rol)58113901(rol):100Elo `+30` `-10` MVP:`+15`
+(rol)58113900(rol):200Elo `+30` `-15` MVP:`+15`
+(rol)58113896(rol):300Elo `+25` `-15` MVP:`+10`
+(rol)58113895(rol):400Elo `+25` `-20` MVP:`+10`
+(rol)58113891(rol):500Elo `+20` `-20` MVP:`+10
+(rol)58113887(rol):600Elo `+20` `-25` MVP:`+5`
+(rol)58113886(rol):700Elo  `+15` `-25` MVP:`+5`
+(rol)58113885(rol):800Elo `+15` `-30` MVP:`+5`
+(rol)58113881(rol):900Elo `+15` `-30` MVP:+5`
+(rol)58113880(rol):1000Elo `+15` `-30` MVP:`+5`
