@@ -1,7 +1,9 @@
 # China Ranked Bedwars Bot Help - General
 
 (emj)check(emj)[8001094616255705/ZUTeHsgDCm014014]**全局指令**
-```\n=i`\n```
+```
+=i
+```
 (emj)arrowdown(emj)[8001094616255705/40kIRFe8OB028028]查看自己数据
 
 **`=i <@玩家>`**
