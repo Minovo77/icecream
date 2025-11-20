@@ -1,13 +1,13 @@
 # China Ranked Bedwars Bot Help - General
 
 (emj)check(emj)[8001094616255705/ZUTeHsgDCm014014]**全局指令**
-> ```\n=i`\n```
-(emj)check(emj)[8001094616255705/ZUTeHsgDCm014014]查看自己数据
+```\n=i`\n```
+(emj)arrowdown(emj)[8001094616255705/40kIRFe8OB028028]查看自己数据
 
-> **`=i <@玩家>`**
+**`=i <@玩家>`**
 (emj)arrowdown(emj)[8001094616255705/40kIRFe8OB028028]查看其他玩家数据
 
-> **`=lb <elo/win/lose/wlr/mvp/game>`**
+**`=lb <elo/win/lose/wlr/mvp/game>`**
 (emj)arrowdown(emj)[8001094616255705/40kIRFe8OB028028]显示当前赛季相关排行榜
 
 **`=claimelo`**
