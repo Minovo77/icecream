@@ -1,4 +1,4 @@
-## 中国排位起床社区规则
+# 中国排位起床社区规则 (emj)ablobcouncil(emj)[8001094616255705/H8QXTH22FY028028]
 **第二赛季规则** (emj)ablobcouncil(emj)[8001094616255705/H8QXTH22FY028028]
 
 
