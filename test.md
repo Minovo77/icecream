@@ -2,9 +2,9 @@
 
 (ins)**全局指令**(ins)
 > (emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k]**`=i`**
-(emj)circle(emj)[8001094616255705/Z9u26cB73F05k05k]查看自己数据
-**`=i <@玩家>`**
-查看其他玩家数据
+   (emj)circle(emj)[8001094616255705/Z9u26cB73F05k05k]查看自己数据
+(emj)point2(emj)[8001094616255705/9fAcLcn4gG05k05k]**`=i <@玩家>`**
+  (emj)circle(emj)[8001094616255705/Z9u26cB73F05k05k]查看其他玩家数据
 **`=lb <elo/win/lose/wlr/mvp/game>`**
 显示当前赛季相关排行榜
 **`=claimelo`**
@@ -43,4 +43,5 @@
 at本次比赛所有玩家
 **`=party help`**
 查看组队指令菜单
+
 
